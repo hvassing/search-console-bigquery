@@ -1,0 +1,42 @@
+[
+  {
+    "type": "BYTES",
+    "name": "page",
+    "mode": "NULLABLE"
+  },
+  {
+    "type": "BYTES",
+    "name": "device",
+    "mode": "NULLABLE"
+  },
+  {
+    "type": "BYTES",
+    "name": "keyword",
+    "mode": "NULLABLE"
+  },
+  {
+    "type": "FLOAT",
+    "name": "clicks",
+    "mode": "NULLABLE"
+  },
+  {
+    "type": "FLOAT",
+    "name": "ctr",
+    "mode": "NULLABLE"
+  },
+  {
+    "type": "FLOAT",
+    "name": "impressions",
+    "mode": "NULLABLE"
+  },
+  {
+    "type": "FLOAT",
+    "name": "position",
+    "mode": "NULLABLE"
+  },
+  {
+    "type": "BYTES",
+    "name": "website",
+    "mode": "NULLABLE"
+  }
+]
